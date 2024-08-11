@@ -10,7 +10,7 @@
 
 <p align="left">
   📚 I'm pursuing a BS double major in CS and Math at Rutgers University! <br>
-  🔭 I’m currently working on TweetNest - a full-stack Twitter Clone <br>
+  🔭 I’m currently working on Feastly - a full-stack Food Ordering Application! :) <br>
   👀 I love tackling DSA <br>
   📝 I write micro-articles on <a href="https://www.linkedin.com/in/diya-kithani-a61b04193/"> Linkedin. </a>
 </p>
